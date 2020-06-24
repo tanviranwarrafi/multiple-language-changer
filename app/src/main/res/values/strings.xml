@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Multiple Language Changer</string>
+    <string name="my_name">Name: Tanvir Anwar Rafi</string>
+    <string name="father_name">Father\'s Name: MD. Anwarul Islam</string>
+    <string name="mother_name">Mother\'s Name: Roksana Akter</string>
+    <string name="chanege_language">Language Change</string>
+    <string name="button_language">English</string>
+
+    <string name="language_test">Language Test</string>
+
+    <string name="text_off">বাংলায় পরিবর্তন</string>
+    <string name="text_on">ইংরেজি্তে পরিবর্তন</string>
+</resources>

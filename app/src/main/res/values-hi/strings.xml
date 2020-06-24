@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">एकाधिक भाषा परिवर्तक</string>
+    <string name="my_name">नाम: तनवीर अनवर रफ़ी</string>
+    <string name="father_name">पिता का नाम: एमडी। अनवारुल इस्लाम</string>
+    <string name="mother_name">माता का नाम: रोकसाना अटर</string>
+    <string name="chanege_language">भाषा परिवर्तन</string>
+    <string name="button_language">हिंदी</string>
+    <string name="language_test">भाषा परीक्षण</string>
+    <string name="text_off">बांग्ला</string>
+    <string name="text_on">अंग्रेज़ी</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">একাধিক ভাষার পরিবর্তক</string>
+    <string name="my_name">নাম: তানভীর আনোয়ার রাফি</string>
+    <string name="father_name">বাবার নাম: মোঃ আনোয়ারুল ইসলাম</string>
+    <string name="mother_name">মাতার নাম: রোকসানা আক্তার</string>
+    <string name="chanege_language">ভাষা পরিবর্তন</string>
+    <string name="button_language">বাংলা</string>
+
+    <string name="language_test">ল্যাংগুয়েজ টেস্ট</string>
+
+    <string name="text_off">Change to Bangla</string>
+    <string name="text_on">Change to English</string>
+</resources>

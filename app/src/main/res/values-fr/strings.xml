@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Changeur de langues multiples</string>
+    <string name="my_name">Nom: Tanvir Anwar Rafi</string>
+    <string name="father_name">Nom du père: MD. Anwarul Islam</string>
+    <string name="mother_name">Nom de la mère: Roksana Akter</string>
+    <string name="chanege_language">Changement de langue</string>
+    <string name="button_language">French</string>
+
+    <string name="language_test">Test de langue</string>
+
+    <string name="text_off">Bangla</string>
+    <string name="text_on">Anglais</string>
+</resources>
