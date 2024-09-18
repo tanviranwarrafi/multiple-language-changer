@@ -1,4 +1,4 @@
-# Multiple Language Changer
+# Localization
 
 This project is for learning multiple language change feature in Android App Development.
 
